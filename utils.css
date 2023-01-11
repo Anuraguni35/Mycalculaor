@@ -1,0 +1,70 @@
+*{
+    font-family: 'Heebo', sans-serif;
+}
+.content-centre{
+    text-align: center;
+}
+.btn{
+    height: 3rem;
+    width: 3rem;
+    margin: 0.2rem;
+    border-radius: 20px;
+    
+}
+h1{
+    font-family: 'Heebo', sans-serif;
+}
+#input_Sec{
+    margin: 1rem;
+    height: 3rem;
+    width: 14rem;
+    background-color: #1f2933;
+    color: white;
+}
+#show{
+    margin-top:1rem ;
+    margin-bottom: 1rem;
+}
+#Second_container{
+    margin-top: 1rem;
+}
+#Second_container{
+    display: none;
+}
+#main_C{
+    width: 17rem;
+    display: inline;
+   
+}
+.blue{
+    background-color: rgba(101, 101, 235, 0.938);
+    border-color: rgba(101, 101, 235, 0.938);
+    color: white;
+}
+.blue:hover{
+    background-color: rgb(72, 72, 218);
+}
+.orange{
+    background-color: orange;
+    border-color: orange;
+     color: white;
+}
+.orange:hover{
+background-color: rgb(230, 230, 0);
+border-color: rgb(230, 230, 0) ;
+}
+.gray{
+    background-color: rgba(148, 142, 142, 0.865);
+    border-color: rgba(148, 142, 142, 0.865);
+    color:white;
+}
+.gray:hover{
+    background-color: rgba(180, 167, 167, 0.865);
+    border-color:rgba(180, 167, 167, 0.865);
+    
+}
+.showBT{
+    background-color: rgba(2, 129, 220, 0.886);
+    color: white;
+    border-color:  rgba(2, 129, 220, 0.886);
+}
